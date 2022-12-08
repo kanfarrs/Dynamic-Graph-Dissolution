@@ -1,2 +1,2 @@
-# Dynamic-Graph-Dissolution
+# Dynamic Graph Dissolution
 test
