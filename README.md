@@ -16,4 +16,4 @@ For any question, please contact [kanfar@stanford.com]
 All material is made available under MIT license.
 
 # Code
-Please follow the notebook for single crack dissolution, discrete fracture network visualization, and graph dissolution. 
+Please follow the crack dissolution and dynamic graph dissolution notebooks. 
