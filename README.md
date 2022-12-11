@@ -16,4 +16,4 @@ For any question, please contact [kanfar@stanford.com]
 All material is made available under MIT license.
 
 # Code
-Please follow the crack dissolution and dynamic graph dissolution notebooks. 
+Please follow the crack dissolution and dynamic graph dissolution notebooks. Discrete fracture networks were generated using dfnWorks https://dfnworks.lanl.gov/
